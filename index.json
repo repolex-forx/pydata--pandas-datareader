@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "pandas-datareader",
+  "versions": [
+    {
+      "commit": "9a3e2fe8c4e202bf9be6b4543fd1a06c3cdce7de",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:02:24.129316+00:00"
+    }
+  ]
+}
